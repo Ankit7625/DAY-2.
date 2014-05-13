@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>88DE4AC9-5E8B-4936-A5F1-121F47FD147E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TRIANGULAR</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>022B3B32-BA8C-4458-B8FB-E009A095EB40</key>
+		<string>https://github.com/Ankit7625/DAY-2..git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TRIANGULAR/TRIANGULAR.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>022B3B32-BA8C-4458-B8FB-E009A095EB40</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Ankit7625/DAY-2..git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>022B3B32-BA8C-4458-B8FB-E009A095EB40</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>022B3B32-BA8C-4458-B8FB-E009A095EB40</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DAY-2.</string>
+		</dict>
+	</array>
+</dict>
+</plist>
